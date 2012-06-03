@@ -12,5 +12,5 @@ When you answer the twitter info gives you a user <strong>"Where is located" not
 then what we do is parse the location of your bio and to match with the communes of Chile</p>
 
 <p>
-if you want to see in operation looks <a href = "http://dakoo.cl/twittcel">here</a>
+if you want to see in operation looks <a href = "http://dakoo.cl/twittcel" target = "_blank">here</a>
 </p>
