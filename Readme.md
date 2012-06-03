@@ -10,3 +10,7 @@ The idea is to have an app that communicates with twitter from time to time and 
 <p>
 When you answer the twitter info gives you a user <strong>"Where is located" not "Where is"</strong> 
 then what we do is parse the location of your bio and to match with the communes of Chile</p>
+
+<p>
+if you want to see in operation looks <a href = "http://dakoo.cl/twittcel">here</a>
+</p>
